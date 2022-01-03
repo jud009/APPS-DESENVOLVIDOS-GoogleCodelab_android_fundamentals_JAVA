@@ -1,0 +1,4 @@
+#Sat Dec 26 13:17:59 BRT 2020
+base.0=/Users/udj009/Desktop/android/code_labs/TwoActivities/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Dec 29 09:54:46 BRT 2020
+0.baseType=DIRECTORY
+0.base=/Users/udj009/Desktop/android/code_labs/PhoneNumberSpinnerEspresso/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

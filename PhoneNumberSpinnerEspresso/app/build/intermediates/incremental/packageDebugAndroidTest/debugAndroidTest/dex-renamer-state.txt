@@ -1,0 +1,4 @@
+#Tue Dec 29 09:54:45 BRT 2020
+base.0=/Users/udj009/Desktop/android/code_labs/PhoneNumberSpinnerEspresso/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

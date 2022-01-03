@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7bda0c06c517a17a7ff3efd56b0479f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3e29daead14e66c4b62bb9bb71db561a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e094f3bdb06f0e711901d551de32e0a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2589679d08e2135d1ea03a5c0a283296\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\175d4424662ace7900b383f330c9fed3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2569a3db2127320e7b57401499569018\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0590d2299682459221d4a78f9fa8d5cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bf67b167aef956743d51405e7f1eaca5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\318bd60d36ef51660b280dc5235e5861\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\77cc19f312d128efd8f574d3505df1de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2ec615e0f466832aa2c6d9554027e21a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7bda0c06c517a17a7ff3efd56b0479f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\7bda0c06c517a17a7ff3efd56b0479f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3e29daead14e66c4b62bb9bb71db561a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3e29daead14e66c4b62bb9bb71db561a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e094f3bdb06f0e711901d551de32e0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e094f3bdb06f0e711901d551de32e0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2589679d08e2135d1ea03a5c0a283296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2589679d08e2135d1ea03a5c0a283296\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\175d4424662ace7900b383f330c9fed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\175d4424662ace7900b383f330c9fed3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2569a3db2127320e7b57401499569018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\2569a3db2127320e7b57401499569018\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0590d2299682459221d4a78f9fa8d5cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0590d2299682459221d4a78f9fa8d5cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bf67b167aef956743d51405e7f1eaca5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bf67b167aef956743d51405e7f1eaca5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\318bd60d36ef51660b280dc5235e5861\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\318bd60d36ef51660b280dc5235e5861\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\77cc19f312d128efd8f574d3505df1de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\77cc19f312d128efd8f574d3505df1de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2ec615e0f466832aa2c6d9554027e21a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\judic\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2ec615e0f466832aa2c6d9554027e21a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\judic\Desktop\android\code_labs\Debugger\app\src\main\AndroidManifest.xml

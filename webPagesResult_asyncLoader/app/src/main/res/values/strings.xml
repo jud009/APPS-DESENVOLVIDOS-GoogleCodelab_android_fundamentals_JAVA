@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">webPagesResult</string>
+    <string name="enter_url">Enter URL:</string>
+    <string name="page_source">Get Page Source</string>
+    <string name="edit_text_hint">www.example.com</string>
+    <string name="https">https://</string>
+    <string name="empty_field">Field is empty</string>
+    <string name="error_msg">something went wrong</string>
+    <string name="http">http://</string>
+    <string name="network_error">No network access</string>
+</resources>

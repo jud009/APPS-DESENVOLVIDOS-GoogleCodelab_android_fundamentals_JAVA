@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/webSite_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:inputType="textWebEditText" />
+
+    <Button
+        android:id="@+id/bt_openWebSite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:onClick="openWebSite"
+        android:text="@string/open_web_site"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/location_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:inputType="textWebEditText" />
+
+    <Button
+        android:id="@+id/bt_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:onClick="openLocation"
+        android:text="@string/open_location"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/shareText_editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:inputType="textWebEditText" />
+
+    <Button
+        android:id="@+id/bt_shareText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="shareText"
+        android:text="@string/share_this_text"
+        android:textSize="22sp" />
+
+    <Button
+        android:id="@+id/btn_openCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:onClick="openCamera"
+        android:textSize="25sp"
+        android:text="@string/take_a_picture" />
+
+</LinearLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetIntents</string>
+    <string name="toast_msgError">Algo deu errado</string>
+</resources>

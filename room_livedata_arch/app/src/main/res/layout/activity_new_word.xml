@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".Activities.NewWordActivity">
+
+    <EditText
+        android:id="@+id/word_input"
+        style="@style/text_view_style"
+        android:hint="@string/hint_word"
+        android:inputType="textAutoComplete" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onSave"
+        android:text="@string/button_save"
+        android:theme="@style/button_style"
+        android:layout_marginTop="16dp"
+        app:cornerRadius="15dp" />
+</LinearLayout>

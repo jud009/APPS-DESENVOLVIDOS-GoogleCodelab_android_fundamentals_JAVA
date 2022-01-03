@@ -1,0 +1,26 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="language_name">
+        <item>Portuguese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+
+    <string-array name="language_code">
+        <item>Pt</item>
+        <item>Eng</item>
+        <item>Fr</item>
+        <item>Sp</item>
+    </string-array>
+</resources>

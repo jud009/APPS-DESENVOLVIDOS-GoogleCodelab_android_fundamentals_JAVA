@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">resultIntentTest</string>
+    <string name="txt_send">send</string>
+    <string name="txt_iGotIt">I got it</string>
+    <string name="txt_first_activity">First Activity</string>
+    <string name="txt_second">Second</string>
+    <string name="txt_retrieve">retrieve</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        >
+        <TextView
+            android:id="@+id/word_value"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Show the Word"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="italic|bold"
+            />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

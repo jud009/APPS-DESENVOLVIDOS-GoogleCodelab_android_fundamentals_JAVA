@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="scoreText">
+        <item name="android:textAppearance">
+            @style/TextAppearance.AppCompat.Display3</item>
+    </style>
+
+    <style name ="scoreButtons">
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+    <style name="plusButtons" parent="scoreButtons">
+        <item name="android:src">@drawable/ic_add</item>
+    </style>
+
+    <style name="minusButton" parent="scoreButtons">
+        <item name="android:src">@drawable/ic_minus</item>
+    </style>
+
+</resources>

@@ -1,0 +1,4 @@
+com/example/android/twoactivities/test/BuildConfig.java
+ com.example.android.twoactivities.test.BuildConfig
+com/example/android/twoactivities/ActivityInputOutputTest.java
+ com.example.android.twoactivities.ActivityInputOutputTest

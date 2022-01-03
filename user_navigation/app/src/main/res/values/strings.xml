@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UserNavigation</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="open_activity">openActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="this_are_the_top_stories_1">This are the top stories 1</string>
+    <string name="this_are_the_top_stories_2">This are the top stories 2</string>
+    <string name="this_are_the_top_stories_3">This are the top stories 3</string>
+
+    <string name="tab_label1">Top Stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+</resources>

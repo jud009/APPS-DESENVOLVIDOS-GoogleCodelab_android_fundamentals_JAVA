@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="open_web_site">Open Web Site</string>
+    <string name="open_location">Open Location</string>
+    <string name="share_this_text">Share this Text</string>
+    <string name="take_a_picture">Take a Picture</string>
+</resources>

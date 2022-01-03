@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadWhen</string>
+    <string name="download_now">Download now</string>
+    <string name="is_idle">Is idle </string>
+    <string name="is_powering">is Power </string>
+    <string name="wi_fi">Wi-fi </string>
+    <string name="cancel_download">Cancel Download</string>
+</resources>
